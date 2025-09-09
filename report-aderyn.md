@@ -1,5 +1,6 @@
 # Table of Contents
 
+
 - [Medium Issues](#medium-issues)
   - [M-1: Centralization Risk for trusted owners](#M-1)
 - [Low Issues](#low-issues)
